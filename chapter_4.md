@@ -21,24 +21,24 @@
 <br />
 
 **Create Directories**
-```
+```sh
 admin  Lynn ~ ∫ mkdir directory...
 ```
 
 Example
-```
+```sh
 admin  Lynn ~ ∫ mkdir dir1
 ```
-```
+```sh
 admin  Lynn ~ ∫ mkdir dir1 dir2 dir3
 ```
 <br />
 
 **Copy Files and Directories**
-```
+```sh
 admin  Lynn ~ ∫ cp item1 item2
 ```
-```
+```sh
 admin  Lynn ~ ∫ cp items... directory
 ```
 Options
@@ -61,10 +61,10 @@ Example
 <br />
 
 **Move and Rename Files**
-```
+```sh
 admin  Lynn ~ ∫ mv item1 item2
 ```
-```
+```sh
 admin  Lynn ~ ∫ mv items... directory
 ```
 
@@ -85,7 +85,7 @@ Example
 <br />
 
 **Remove Files and Directories**
-```
+```sh
 admin  Lynn ~ ∫  rm items...
 ```
 Options
@@ -107,15 +107,15 @@ Example
 
 **Create Links**
 - Hard link
-```
+```sh
 admin  Lynn ~ ∫ ln file link
 ```
 - Symbolic link
-```
+```sh
 admin  Lynn ~ ∫ ln -s item link
 ```
 where `item` is a text description of where the target file is **relative** to the symbolic link
-```
+```sh
 admin  Lynn ~ ∫ ln -s path link
 ```
 `path` can also be **absolute**
