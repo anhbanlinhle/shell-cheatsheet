@@ -106,7 +106,17 @@ Example
 <br />
 
 **Create Links**
+- Hard link
 ```
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ ln file link
 ```
+- Symbolic link
+```
+admin  Lynn ~ ∫ ln -s item link
+```
+where `item` is a text description of where the target file is **relative** to the symbolic link
+```
+admin  Lynn ~ ∫ ln -s path link
+```
+`path` can also be **absolute**
 <br />
