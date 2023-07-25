@@ -1,14 +1,14 @@
 # What Is The Shell?
 
 **Show current date & time**
-```
+```sh
 admin  Lynn shell-cheatsheet ∫ date
 Mon Jul 24 22:27:43 +07 2023
 ```
 <br />
 
 **Show calendar of current month**
-```
+```sh
 admin  Lynn shell-cheatsheet ∫ cal
      July 2023        
 Su Mo Tu We Th Fr Sa  
@@ -22,7 +22,7 @@ Su Mo Tu We Th Fr Sa
 <br />
 
 **Show current amount of free space on disk**
-```
+```sh
 admin  Lynn shell-cheatsheet ∫ df
 Filesystem              512-blocks       Used Available Capacity iused    ifree %iused  Mounted on
 /dev/disk1s5s1          1560547280   17702312  12779360    59%  355384 63896800    1%   /
@@ -33,6 +33,6 @@ devfs                          390        390         0   100%     676        0 
 <br />
 
 **End terminal session**
-```
+```sh
 admin  Lynn shell-cheatsheet ∫ exit
 ```
