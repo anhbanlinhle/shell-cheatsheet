@@ -1,9 +1,46 @@
-# Heading
+# Working with Commands
 
-**Description**
+**Identifying Commands**
+```sh
+admin  Lynn ~ ∫  type commands...
 ```
-admin  Lynn shell-cheatsheet ∫ command
-result
+Outcomes:
+- An executable program
+```
+command is /bin/...
+```
+- A shell function
+```
+command is a shell builtin
+```
+- An alias
+``` 
+command is aliased to  `...` 
+```
+
+<br />
+
+****
+```sh
+admin  Lynn ~ ∫
+```
+<br />
+
+****
+```sh
+admin  Lynn ~ ∫
+```
+<br />
+
+****
+```sh
+admin  Lynn ~ ∫
+```
+<br />
+
+****
+```sh
+admin  Lynn ~ ∫
 ```
 <br />
 
