@@ -2,7 +2,7 @@
 
 **More fun with ls**
 - ls directory with /path
-```
+```sh
 admin  Lynn ~ ∫ ls /path
 dir1		dir2		dir3		dir4
 dir5		dir6		dir7		dir8
@@ -10,7 +10,7 @@ dir5		dir6		dir7		dir8
 <br />
 
 - ls with multiple paths
-```
+```sh
 admin  Lynn ~ ∫ ls /path1 /path2
 /path1:
 dir1		dir2		dir3		dir4
@@ -19,28 +19,28 @@ dir5		dir6		dir7		dir8
 /path2:
 dir9		dir10		dir11		dir12
 dir13		dir14		dir15		dir16
-```
+```sh
 <br />
 
 **Options and Arguments**
-```
+```sh
 admin  Lynn ~ ∫ command -options arguments
 ```
 <br />
 
 **Option**
-```
+```sh
 admin  Lynn ~ ∫ command -option
 ```
 - Long option
-```
+```sh
 admin  Lynn ~ ∫ command --option
 ```
 - Multiple options
-```
+```sh
 admin  Lynn ~ ∫ command -option1 -option2
 ```
-```
+```sh
 admin  Lynn ~ ∫ command -option1option2
 ```
 <br />
@@ -60,7 +60,7 @@ admin  Lynn ~ ∫ command -option1option2
 <br />
 
 **Long format**
-```
+```sh
 admin  Lynn ~ ∫ ls -l
 total 1960
 -rw-r--r--    1 admin  staff      77 Sep 25  2021 hello.cpp
@@ -80,18 +80,18 @@ drwxr-xr-x@  57 admin  staff    1824 Jul 24 22:19 Desktop
 <br />
 
 **Determining File's type**
-```
+```sh
 admin  Lynn ~ ∫ file filename
 ```
 Example
-```
+```sh
 admin  Lynn ~ ∫ file Untitled.txt
 Untitled.txt: Unicode text, UTF-16, little-endian text
 ```
 <br />
 
 **Viewing file's content**
-```
+```sh
 admin  Lynn ~ ∫ less filename
 ```
 While viewing
