@@ -36,10 +36,15 @@ admin  Lynn ~ ∫ command --help
 ```
 <br />
 
-****
+**Program's Manual Page**
 ```sh
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ man program
 ```
+Section
+```sh
+admin  Lynn ~ ∫ man section search_term 
+```
+
 <br />
 
 ****
