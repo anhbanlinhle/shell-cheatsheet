@@ -20,15 +20,15 @@ command is aliased to  `...`
 
 <br />
 
-****
+**Executable's Location**
 ```sh
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ which commands...
 ```
 <br />
 
-****
+**Command's Documentation**
 ```sh
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ help command
 ```
 <br />
 
