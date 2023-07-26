@@ -30,6 +30,10 @@ admin  Lynn ~ ∫ which commands...
 ```sh
 admin  Lynn ~ ∫ help command
 ```
+Usage Documentation
+```sh
+admin  Lynn ~ ∫ command --help
+```
 <br />
 
 ****
