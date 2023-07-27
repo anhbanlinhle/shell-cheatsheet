@@ -85,4 +85,5 @@ Commands
 |<kbd>p</kbd>| Previous - Display the previous node
 |<kbd>u</kbd>| Up - Display the parent node of the currently displayed node, usually a menu
 |<kbd>Enter</kbd>| Follow the hyperlink at the cursor location
+|<kbd>q</kbd>| Quit
 <br />
