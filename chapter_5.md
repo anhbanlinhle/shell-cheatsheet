@@ -71,8 +71,18 @@ admin  Lynn ~ ∫ whatis command
 ```
 <br />
 
-****
+**Program's Info Entry**
 ```sh
-admin  Lynn ~ ∫ 
+admin  Lynn ~ ∫ info programs
 ```
+Commands
+|Command|Action
+|-|-
+|<kbd>?</kbd>| Display command help
+|<kbd>PgUp</kbd> or <kbd>Backspace</kbd>| Display previous page
+|<kbd>PgDn</kbd> or <kbd>Space</kbd>| Display next page
+|<kbd>n</kbd>| Next - Display the next node
+|<kbd>p</kbd>| Previous - Display the previous node
+|<kbd>u</kbd>| Up - Display the parent node of the currently displayed node, usually a menu
+|<kbd>Enter</kbd>| Follow the hyperlink at the cursor location
 <br />
