@@ -56,9 +56,12 @@ admin  Lynn ~ ∫ man section search_term
 |`8`| System administration commands|
 <br />
 
-****
+**Appropriate Commands**
 ```sh
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ man -k search_term
+```
+```sh
+admin  Lynn ~ ∫ apropos search_term
 ```
 <br />
 
