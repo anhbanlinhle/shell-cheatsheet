@@ -65,8 +65,14 @@ admin  Lynn ~ ∫ apropos search_term
 ```
 <br />
 
+**One-line Manual Page**
+```sh
+admin  Lynn ~ ∫ whatis command
+```
+<br />
+
 ****
 ```sh
-admin  Lynn ~ ∫
+admin  Lynn ~ ∫ 
 ```
 <br />
