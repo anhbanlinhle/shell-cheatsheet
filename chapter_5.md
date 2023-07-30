@@ -87,3 +87,29 @@ Commands
 |<kbd>Enter</kbd>| Follow the hyperlink at the cursor location
 |<kbd>q</kbd>| Quit
 <br />
+
+**Creating Commands**
+Multiple Commands in One line Trick
+```sh
+admin  Lynn ~ ∫ command1; command2; command3...
+```
+
+Structure
+```sh
+admin  Lynn ~ ∫ alias name='string'
+```
+```sh
+admin  Lynn ~ ∫ type name
+name is aliased to `...`
+```
+
+Remove alias
+```sh
+admin  Lynn ~ ∫ unalias name
+```
+
+Show all aliases defined
+```sh
+admin  Lynn ~ ∫ alias
+```
+<br />
