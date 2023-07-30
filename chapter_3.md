@@ -19,7 +19,7 @@ dir5		dir6		dir7		dir8
 /path2:
 dir9		dir10		dir11		dir12
 dir13		dir14		dir15		dir16
-```sh
+```
 <br />
 
 **Options and Arguments**
